@@ -1,5 +1,5 @@
 # Drowsiness Detection Model
-This project is a small implementation of a drowsiness detection model using computer vision techniques.
+This project is a small implementation of a drowsiness detection deep learning model.
 The model determines if a person is becoming drowsy or falling asleep, with the goal of improving driver safety.
 
 ## Features
